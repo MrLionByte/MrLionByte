@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
@@ -24,7 +24,12 @@
 
 ###
 
-<div align="left">
+<p align="left">Hello<br>Passionate self-taught Web developer with a strong foundation in full-stack web development is here. I leverage the power of Python's Django framework for robust backend development, React.js for interactive and dynamic frontends, and HTML, CSS with Bootstrap for a user-friendly and visually appealing user interface. I also utilize PostgreSQL for efficient and scalable data storage.</p>
+
+###
+
+<div align="center">
+  <h2>Connect With Me On:</h2>
   <a href="https://www.youtube.com/channel/UCfUHc8t4ozvkpXY97wSJq2A" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="44" height="26" alt="youtube logo"  />
   </a>
@@ -41,17 +46,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="44" height="26" alt="hackerrank logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif"  />
-
-###
-
-<p align="left">Hello<br>Passionate self-taught Web developer with a strong foundation in full-stack web development is here. I leverage the power of Python's Django framework for robust backend development, React.js for interactive and dynamic frontends, and HTML, CSS with Bootstrap for a user-friendly and visually appealing user interface. I also utilize PostgreSQL for efficient and scalable data storage.</p>
-
-###
-
+<p align="left"></p>
+<p align="left"></p>
+<p align="left"></p>
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/0/1634533856823?e=1715817600&v=beta&t=-OY09lHqio8iPf94X-qAv8R5K7Xk86mdhe7Cb51uotE"  />
 </div>
@@ -60,4 +57,19 @@
 
 <p align="left"></p>
 
+<div align="center">
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrLionByte&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLionByte&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
 ###
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MrLionByte&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
+</div>
