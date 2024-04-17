@@ -28,6 +28,11 @@
 
 ###
 
+###
+<h5><br>Contact me on </h5>
+<p><span>Linkdin : https://linkedin.com/in/farhan-mahmood-a71953209</span> <span>Email : fanunaf@gmail.com</span> <span>Twitter : https://twitter.com/Farhanmn0</span></p>
+###
+
 <div align="center">
   <h2>Connect With Me On:</h2>
   <a href="https://www.youtube.com/channel/UCfUHc8t4ozvkpXY97wSJq2A" target="_blank">
