@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Hello<br>Passionate self-taught Web developer with a strong foundation in full-stack web development is here. I leverage the power of Python's Django framework for robust backend development, React.js for interactive and dynamic frontends, and HTML, CSS with Bootstrap for a user-friendly and visually appealing user interface. I also utilize PostgreSQL for efficient and scalable data storage.</p>
+<p align="left">Greetings ! <br> I am a dedicated,passionate web developer with a comprehensive background in full-stack web development. My expertise lies in utilizing the Django framework for backend development, React.js for creating dynamic and interactive frontends, and HTML, CSS with Bootstrap for crafting user-friendly and visually engaging interfaces. Additionally, I employ PostgreSQL for managing data efficiently and ensuring scalability.</p>
 
 ###
 
