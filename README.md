@@ -30,7 +30,7 @@
 
 ###
 <h5><br>Contact me on </h5>
-<p><span>Linkdin : linkedin.com/in/farhan-mahmood-n</span> <span>Email : fanunaf@gmail.com</span> <span>Twitter : https://twitter.com/Farhanmn0</span></p>
+<p><span>Linkdin : https://linkedin.com/in/farhan-mahmood-n</span> <span>Email : fanunaf@gmail.com</span> <span>Twitter : https://twitter.com/Farhanmn0</span></p>
 ###
 
 <div align="center">
