@@ -35,9 +35,9 @@
 
 <div align="center">
   <h2>Connect With Me On:</h2>
-  <a href="https://www.youtube.com/channel/UCfUHc8t4ozvkpXY97wSJq2A" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="44" height="26" alt="youtube logo"  />
-  </a>
+  //<a href="https://www.youtube.com/channel/UCfUHc8t4ozvkpXY97wSJq2A" target="_blank">
+    //<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="44" height="26" alt="youtube logo"  />
+  //</a>
   <a href="fanunaf@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="26" alt="gmail logo"  />
   </a>
@@ -47,9 +47,9 @@
   <a href="@Farhanmn0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="26" alt="twitter logo"  />
   </a>
-  <a href="@fanunaf25" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="44" height="26" alt="hackerrank logo"  />
-  </a>
+  //<a href="@fanunaf25" target="_blank">
+    //<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="44" height="26" alt="hackerrank logo"  />
+  //</a>
 </div>
 <p align="left"></p>
 <p align="left"></p>
