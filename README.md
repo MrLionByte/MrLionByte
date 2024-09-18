@@ -51,7 +51,7 @@
 <p align="left"></p>
 <p align="left"></p>
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4E12AQEhsaIOuMV62w/article-cover_image-shrink_423_752/0/1634533856823?e=1715817600&v=beta&t=-OY09lHqio8iPf94X-qAv8R5K7Xk86mdhe7Cb51uotE"  />
+
 </div>
 
 ###
