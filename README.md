@@ -30,19 +30,19 @@
 
 ###
 <h5><br>Contact me on </h5>
-<p><span>Linkdin : https://linkedin.com/in/farhan-mahmood-n</span> </br> <span>Email : fanunaf@gmail.com</span> <span>Twitter : https://twitter.com/Farhanmn0</span></p>
-###
+<p><span>Linkdin : https://linkedin.com/in/farhan-mahmood-n</span> </br> <span>Email : fanunaf@gmail.com</span> </br> <span>Twitter : https://twitter.com/Farhanmn0</span></p>
 
+</br>
 <div align="center">
   <h2>Connect With Me On:</h2>
 
-  <a href="fanunaf@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="26" alt="gmail logo"  />
+  <a href="mailto:fanunaf@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="26" alt="gmail logo" />
   </a>
-  <a href="www.linkedin.com/in/farhan-mahmood-n" target="_blank">
+  <a href="https://linkedin.com/in/farhan-mahmood-n" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="26" alt="linkedin logo"  />
   </a>
-  <a href="@Farhanmn0" target="_blank">
+  <a href="https://x.com/Farhanmn0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="26" alt="twitter logo"  />
   </a>
 
@@ -70,7 +70,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrLionByte&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 </div>
