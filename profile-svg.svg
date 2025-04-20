@@ -63,7 +63,7 @@
   <rect x="100" y="68" width="600" height="64" fill="#1A2433" rx="8" />
   <rect x="105" y="73" width="590" height="54" fill="#0D1117" rx="5" />
 
-  <rect x="575" y="99" width="2" height="20" fill="#4D9EFF">
+  <rect x="590" y="90" width="2" height="20" fill="#4D9EFF">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" />
   </rect>
 
