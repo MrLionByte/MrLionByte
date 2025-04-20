@@ -1,83 +1,112 @@
-<h3 align="left">Hi 👋! I'm Farhan MN, <br>Self-Taught Full-Stack Web Developer (Python Django + React) <br>and IOT hobbyist.</h3>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="30" alt="ifttt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="kafka logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="rabbitmq logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
+  <img src="https://raw.githubusercontent.com/MrLionByte/MrLionByte/main/profile-svg.svg" alt="Animated greeting" width="800" />
 </div>
 
-###
+<div align="center"><h3>Full-Stack Web Developer & IoT Enthusiast</h3></div>
 
-<p align="left">Greetings ! <br> I am a dedicated,passionate web developer with a comprehensive background in full-stack web development. My expertise lies in utilizing the Django framework for backend development, React.js for creating dynamic and interactive frontends, and HTML, CSS with Bootstrap for crafting user-friendly and visually engaging interfaces. Additionally, I employ PostgreSQL for managing data efficiently and ensuring scalability.</p>
-
-###
-
-###
-<h5><br>Contact me on </h5>
-<p><span>Linkdin : https://linkedin.com/in/farhan-mahmood-n</span> </br> <span>Email : fanunaf@gmail.com</span> </br> <span>Twitter : https://twitter.com/Farhanmn0</span></p>
-
-</br>
 <div align="center">
-  <h2>Connect With Me On:</h2>
-
-  <a href="mailto:fanunaf@gmail.com" target="_blank">
+  <a href="mailto:fanunaf@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="26" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/farhan-mahmood-n" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="26" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/farhan-mahmood-n">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="26" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/Farhanmn0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="26" alt="twitter logo"  />
+  <a href="https://x.com/Farhanmn0">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="26" alt="twitter logo" />
   </a>
-
-</div>
-<p align="left"></p>
-<p align="left"></p>
-<p align="left"></p>
-<div align="center">
-
 </div>
 
-###
+## 💫 About Me
+- Web developer specializing in full-stack development.  I build scalable, maintainable web apps.
+- I’ve learned by building.
+- I’m also into automation and IoT — I enjoy bridging the gap between ideas and execution, whether it’s streamlining a dev workflow or connecting hardware to the web.
+- Always building, always learning.
 
-<p align="left"></p>
+## 🛠️ Tech Stack
 
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+
+<div style="text-align: center;">
+
+  <!-- Core Backend Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/celery/celery/master/docs/images/celery_512.png" height="40" alt="Celery logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" height="40" alt="GCP logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=DgDldTbM9fXB&format=png&color=000000" height="40" style="background-color:rgb(73, 69, 69); border-radius: 10px; padding: 5px;" alt="Redux logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="40" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+
+  <!-- Tools -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="40" style="background-color:rgb(73, 69, 69); border-radius: 10px; padding: 5px;" alt="IFTTT logo" />
+
+</div>
+</div>
+
+## 📚 Next to Learn Tech Stack
+<div style="margin-top: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000" height="40"  style="background-color:rgb(73, 69, 69); border-radius: 10px;" alt="Flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+</div>
+
+
+## 📊 GitHub Stats
 <div align="center">
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrLionByte&theme=dark&hide_border=true)<br/>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrLionByte&theme=dark&hide_border=true)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLionByte&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-
-###
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
 
 ---
 
-###
+
+<div align="center">
+  
+### 📫 How to reach me
+**Email:** fanunaf@gmail.com | **LinkedIn:** [farhan-mahmood-n](https://linkedin.com/in/farhan-mahmood-n) | **Twitter:** [@Farhanmn0](https://twitter.com/Farhanmn0)
+
 </div>
