@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <rect width="800" height="200" fill="#0D1117" />
+
+  <g fill="#2A3144" font-family="monospace" font-size="14">
+    <text x="30" y="20" opacity="0.5">
+      <tspan>&lt;div&gt;</tspan>
+    </text>
+    <text x="130" y="20" opacity="0.4">
+      <tspan></tspan>
+    </text>
+    <text x="260" y="20" opacity="0.3">
+      <tspan></tspan>
+    </text>
+    <text x="400" y="20" opacity="0.6">
+      <tspan></tspan>
+    </text>
+    <text x="550" y="20" opacity="0.4">
+      <tspan></tspan>
+    </text>
+    <text x="650" y="20" opacity="0.5">
+      <tspan>&lt;/div&gt;</tspan>
+    </text>
+
+    <text x="20" y="45" opacity="0.3">
+      <tspan></tspan>
+    </text>
+    <text x="180" y="45" opacity="0.4">
+      <tspan></tspan>
+    </text>
+    <text x="280" y="45" opacity="0.5">
+      <tspan></tspan>
+    </text>
+    <text x="430" y="45" opacity="0.3">
+      <tspan></tspan>
+    </text>
+    <text x="540" y="45" opacity="0.5">
+      <tspan></tspan>
+    </text>
+    <text x="670" y="45" opacity="0.4">
+      <tspan></tspan>
+    </text>
+
+    <text x="50" y="180" opacity="0.5">
+      <tspan>&lt;h1&gt;</tspan>
+    </text>
+    <text x="150" y="180" opacity="0.3">
+      <tspan></tspan>
+    </text>
+    <text x="270" y="180" opacity="0.4">
+      <tspan></tspan>
+    </text>
+    <text x="400" y="180" opacity="0.5">
+      <tspan></tspan>
+    </text>
+    <text x="500" y="180" opacity="0.3">
+      <tspan></tspan>
+    </text>
+    <text x="650" y="180" opacity="0.4">
+      <tspan>&lt;/h1&gt;</tspan>
+    </text>
+  </g>
+
+  <rect x="100" y="68" width="600" height="64" fill="#1A2433" rx="8" />
+  <rect x="105" y="73" width="590" height="54" fill="#0D1117" rx="5" />
+
+  <rect x="575" y="99" width="2" height="20" fill="#4D9EFF">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" />
+  </rect>
+
+  <text x="400" y="108" font-family="'Courier New', monospace" font-size="24" fill="#4D9EFF" text-anchor="middle" font-weight="bold">
+    Hey there, it's Farhan here
+    <animate attributeName="fill" values="#4D9EFF;#38B2AC;#4D9EFF" dur="8s" repeatCount="indefinite" />
+  </text>
+
+  <text x="108" y="107" font-family="'Courier New', monospace" font-size="30" fill="#7986CB" opacity="0.9">{</text>
+  <text x="680" y="107" font-family="'Courier New', monospace" font-size="30" fill="#7986CB" opacity="0.9">}</text>
+
+  <path d="M20,100 L85,100" stroke="#38B2AC" stroke-width="2" fill="none">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" />
+  </path>
+  <path d="M715,100 L780,100" stroke="#38B2AC" stroke-width="2" fill="none">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" />
+  </path>
+
+  <circle r="3" fill="#4D9EFF">
+    <animate attributeName="cx" values="20;85" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="100;100" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <circle r="3" fill="#4D9EFF">
+    <animate attributeName="cx" values="780;715" dur="2s" repeatCount="indefinite" />
+    <animate attributeName="cy" values="100;100" dur="2s" repeatCount="indefinite" />
+  </circle>
+</svg>
